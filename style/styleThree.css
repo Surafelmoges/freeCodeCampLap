@@ -1,0 +1,59 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background: #dfd6d6;
+}
+.containor{
+  background: #fcfbfb;
+  width: 40%;
+  margin-left: 350px;
+  margin-right: 350px;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  padding-left: 33px;
+  border: 1px saddlebrown solid;
+}
+.head{
+  text-align: center;
+  padding: 45px;
+}
+.taskOne{
+  background: rgb(155, 239, 161);
+  border-radius: 7px;
+  padding-left: 45px;
+  padding-right: 21px;
+  padding-top: 35px;
+  padding-bottom: 35px;
+  margin-left: -4px;
+  margin-right: 27px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.che{
+  display: inline-block;
+  
+ 
+}
+.Explore{
+  margin-left: 12px;
+
+  font-size: 18px;
+}
+.rec{
+ margin-left: 12px;
+ font-size: 18px;
+}
+
+.storeLink{
+  text-decoration: none;
+  color: blue;
+  font-size: 18px;
+  margin-left: 12px;
+  margin-top: 10px;
+  padding: 5px;
+  
+
+}
