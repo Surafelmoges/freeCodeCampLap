@@ -1,0 +1,52 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-image: url(../images/back.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.containor{
+  border: 4px solid black;
+  width: 35%;
+  height: 550px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 55px;
+  margin-bottom: 21px;
+  background: bisque;
+}
+.prof{
+  width: 150px;
+  height: 150px;
+  margin-left: 127px;
+  margin-right: 90px;
+  margin-top: 80px;
+  border-radius: 90px;
+}
+.name{
+  font-size: 26px;
+  text-align: center;
+  
+}
+.title{
+   font-size: 26px;
+  text-align: center;
+  color: rgb(108, 113, 116);
+}
+.bootcamp{
+   font-size: 24px;
+  text-align: center;
+  margin-bottom: 35px;
+  color: #a79f9f;
+}
+.detail{
+  text-align: center;
+  margin-top: 20px;
+
+}
+.status{
+  margin-top: 17px;
+}
