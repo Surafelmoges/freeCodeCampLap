@@ -37,7 +37,7 @@ body{
   
  
 }
-.Explore{
+Explore{
   margin-left: 12px;
 
   font-size: 18px;
@@ -47,13 +47,25 @@ body{
  font-size: 18px;
 }
 
-.storeLink{
+.sub-item-link{
   text-decoration: none;
   color: blue;
   font-size: 18px;
   margin-left: 12px;
   margin-top: 10px;
   padding: 5px;
-  
 
+
+}
+.sub-item-link:visited{
+  color: brown;
+}
+.sub-item-link:hover{
+  color: red;
+}
+.sub-item-link:focus{
+  color: green;
+}
+.sub-item-link:active{
+  color: yellow;
 }
